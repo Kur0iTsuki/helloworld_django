@@ -9,14 +9,14 @@ This is a simple Django application that returns a "Hello World" message in both
 
 ## Prerequisites
 
-- Python 3.x
-- Django (Version 3.x or above)
+- Python 3.0
+- Django (Version 3.0 or above)
 
 ## How to Run the App
 
   ### 1. Clone the Repository
    ```sh
-    git clone <https://github.com/Kur0iTsuki/helloworld_django>
+    git clone https://github.com/Kur0iTsuki/helloworld_django
     cd helloworld_django
     cd helloworld_project
    ```
